@@ -6,4 +6,10 @@ $u$ + $s$
 
 This is an equation 
 
-$$Ax=b$$
+$$
+Ax=b
+$$
+
+# ok Eq
+
+$ u $ 
