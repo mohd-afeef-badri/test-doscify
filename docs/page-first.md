@@ -1,15 +1,10 @@
-## This is a Test ##
+# This is a Test
 
-A FEM solver with some Maths
+Inline math: $u + s$
 
-$u$ + $s$
-
-This is an equation 
+Block math:
 
 $$
-Ax=b
+Ax = b
 $$
 
-# ok Eq
-
-$ u $ 
